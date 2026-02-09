@@ -1,2 +1,2 @@
 # Python-crash-course-2026
-learning Python
+In this repository I will post my completed exercises from Eric Metiz's book "crash course python" and in the future I want to become a specialist in the field of AI/Machine learning.
