@@ -1,0 +1,15 @@
+#3.8
+c = ['Turkey', 'Japan', 'China', 'USA', 'Cuprus']
+print(c)
+print(sorted(c))
+print(c)
+print(sorted(c, reverse=True))
+print(c)
+c.reverse()
+print(c)
+c.reverse()
+print(c)
+c.sort()
+print(c)
+c.sort(reverse=True)
+print(c)

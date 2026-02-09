@@ -1,0 +1,16 @@
+#3.6
+quests = ['Naruto', 'Mahito', 'Itachi', 'Enrico Pucci', 'Kira']
+qw = quests.pop()
+qs = quests.append('Gaara')
+qn0 = quests.insert(0, 'Sasuke')
+qn1 = quests.insert(4, 'L')
+qn2 = quests.append('Dio')
+print(quests)
+print(f"We invite you {quests[0]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[1]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[2]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[3]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[4]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[5]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[6]} without respect, Yuta Okkotsu")
+print(f"We invite you {quests[7]} without respect, Yuta Okkotsu")
