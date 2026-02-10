@@ -1,0 +1,1 @@
+This folder is for experiments, and 99% of the time it's not my code, but code from neural networks or other people. In this folder, I simply look at how this or that code works.
